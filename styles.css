@@ -1,0 +1,16 @@
+h1{
+	margin: 3% 0 0 40%;
+}
+.conteiner_log{
+	width: 30%;
+	hight:30%;
+	background-color: RGB(24, 35, 80);
+	margin: 2% 0 0 60%;
+	text-alight: center;
+}
+.inplog{
+	text-align: center;
+}
+.conteiner_log .inplog{
+padding-top: 10%;
+}
